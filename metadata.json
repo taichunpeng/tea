@@ -1,0 +1,5 @@
+{
+  "name": "TeaBrew - 泡茶指南",
+  "description": "一个优雅的泡茶指南应用，包含20多种茶叶的冲泡方法、计时器和PWA支持。",
+  "requestFramePermissions": []
+}

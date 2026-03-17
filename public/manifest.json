@@ -1,0 +1,21 @@
+{
+  "name": "TeaBrew - 泡茶指南",
+  "short_name": "TeaBrew",
+  "description": "一个优雅的泡茶指南应用",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f0",
+  "theme_color": "#5A5A40",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/tea-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/tea-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
